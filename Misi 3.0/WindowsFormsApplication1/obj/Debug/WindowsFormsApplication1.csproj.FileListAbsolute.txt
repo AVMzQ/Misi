@@ -1,0 +1,17 @@
+c:\users\danie\onedrive\documentos\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Inicio.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PanelControl.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ABC.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BitacoraEmpleado.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Venta.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BitacoraVenta.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Cambio_de_contraseña.resources

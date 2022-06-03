@@ -1,0 +1,152 @@
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Misi.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Cambio_de_contraseña.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Inicio.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PanelControl.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ABC.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BitacoraEmpleado.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Venta.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BitacoraVenta.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Misi.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Misi.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Rigo\Downloads\CharlyMisi2.1\Misi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Rigo\Downloads\CharlyMisi2.1\Misi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Rigo\Downloads\CharlyMisi2.1\Misi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Rigo\Downloads\CharlyMisi2.1\Misi\WindowsFormsApplication1\obj\Debug\Misi.csprojAssemblyReference.cache
+C:\Users\Rigo\Downloads\CharlyMisi2.1\Misi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Cambio_de_contraseña.resources
+C:\Users\Rigo\Downloads\CharlyMisi2.1\Misi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Inicio.resources
+C:\Users\Rigo\Downloads\CharlyMisi2.1\Misi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PanelControl.resources
+C:\Users\Rigo\Downloads\CharlyMisi2.1\Misi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ABC.resources
+C:\Users\Rigo\Downloads\CharlyMisi2.1\Misi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BitacoraEmpleado.resources
+C:\Users\Rigo\Downloads\CharlyMisi2.1\Misi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Venta.resources
+C:\Users\Rigo\Downloads\CharlyMisi2.1\Misi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BitacoraVenta.resources
+C:\Users\Rigo\Downloads\CharlyMisi2.1\Misi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Rigo\Downloads\CharlyMisi2.1\Misi\WindowsFormsApplication1\obj\Debug\Misi.csproj.GenerateResource.cache
+C:\Users\Rigo\Downloads\CharlyMisi2.1\Misi\WindowsFormsApplication1\obj\Debug\Misi.csproj.CoreCompileInputs.cache
+C:\Users\Rigo\Downloads\CharlyMisi2.1\Misi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Rigo\Downloads\CharlyMisi2.1\Misi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\USER\Downloads\Misi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\USER\Downloads\Misi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\Downloads\Misi\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\USER\Downloads\Misi\WindowsFormsApplication1\obj\Debug\Misi.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\Misi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Cambio_de_contraseña.resources
+C:\Users\USER\Downloads\Misi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Inicio.resources
+C:\Users\USER\Downloads\Misi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PanelControl.resources
+C:\Users\USER\Downloads\Misi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ABC.resources
+C:\Users\USER\Downloads\Misi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BitacoraEmpleado.resources
+C:\Users\USER\Downloads\Misi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Venta.resources
+C:\Users\USER\Downloads\Misi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BitacoraVenta.resources
+C:\Users\USER\Downloads\Misi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\USER\Downloads\Misi\WindowsFormsApplication1\obj\Debug\Misi.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\Misi\WindowsFormsApplication1\obj\Debug\Misi.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Misi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\Downloads\Misi\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 2.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 2.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 2.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 2.3\WindowsFormsApplication1\obj\Debug\Misi.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 2.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Cambio_de_contraseña.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 2.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Inicio.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 2.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PanelControl.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 2.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ABC.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 2.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BitacoraEmpleado.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 2.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Venta.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 2.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BitacoraVenta.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 2.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 2.3\WindowsFormsApplication1\obj\Debug\Misi.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 2.3\WindowsFormsApplication1\obj\Debug\Misi.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 2.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 2.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 2.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.proveedores.resources
+Z:\charl\Descargas\Misi 2.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+Z:\charl\Descargas\Misi 2.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+Z:\charl\Descargas\Misi 2.3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+Z:\charl\Descargas\Misi 2.3\WindowsFormsApplication1\obj\Debug\Misi.csprojAssemblyReference.cache
+Z:\charl\Descargas\Misi 2.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Cambio_de_contraseña.resources
+Z:\charl\Descargas\Misi 2.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Inicio.resources
+Z:\charl\Descargas\Misi 2.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PanelControl.resources
+Z:\charl\Descargas\Misi 2.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ABC.resources
+Z:\charl\Descargas\Misi 2.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BitacoraEmpleado.resources
+Z:\charl\Descargas\Misi 2.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.proveedores.resources
+Z:\charl\Descargas\Misi 2.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Venta.resources
+Z:\charl\Descargas\Misi 2.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BitacoraVenta.resources
+Z:\charl\Descargas\Misi 2.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+Z:\charl\Descargas\Misi 2.3\WindowsFormsApplication1\obj\Debug\Misi.csproj.GenerateResource.cache
+Z:\charl\Descargas\Misi 2.3\WindowsFormsApplication1\obj\Debug\Misi.csproj.CoreCompileInputs.cache
+Z:\charl\Descargas\Misi 2.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+Z:\charl\Descargas\Misi 2.3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\USER\Downloads\Misi 3.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\USER\Downloads\Misi 3.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\Downloads\Misi 3.0\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\USER\Downloads\Misi 3.0\WindowsFormsApplication1\obj\Debug\Misi.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Cambio_de_contraseña.resources
+C:\Users\USER\Downloads\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Inicio.resources
+C:\Users\USER\Downloads\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PanelControl.resources
+C:\Users\USER\Downloads\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ABC.resources
+C:\Users\USER\Downloads\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BitacoraEmpleado.resources
+C:\Users\USER\Downloads\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.proveedores.resources
+C:\Users\USER\Downloads\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Venta.resources
+C:\Users\USER\Downloads\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BitacoraVenta.resources
+C:\Users\USER\Downloads\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\USER\Downloads\Misi 3.0\WindowsFormsApplication1\obj\Debug\Misi.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\Misi 3.0\WindowsFormsApplication1\obj\Debug\Misi.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\USER\Downloads\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\Misi.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Cambio_de_contraseña.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Inicio.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PanelControl.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ABC.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BitacoraEmpleado.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.proveedores.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Venta.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BitacoraVenta.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\Misi.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\Misi.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 3.0\WindowsFormsApplication1\bin\Debug\Misi.exe.config
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 3.0\WindowsFormsApplication1\bin\Debug\Misi.exe
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 3.0\WindowsFormsApplication1\bin\Debug\Misi.pdb
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\Misi.exe
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\Misi.pdb
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Archivo_muerto_inventario.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Inventario.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Producto_Entregado.resources
+C:\Users\USER\OneDrive\Escritorio\ducumentos de tareas\Misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CompraProveedores.resources
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\bin\Debug\Misi.exe.config
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\bin\Debug\Misi.exe
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\bin\Debug\Misi.pdb
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\Misi.csproj.AssemblyReference.cache
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Inicio.resources
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Inventario.resources
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PanelControl.resources
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ABC.resources
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BitacoraEmpleado.resources
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Producto_Entregado.resources
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.proveedores.resources
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CompraProveedores.resources
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Venta.resources
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.BitacoraVenta.resources
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\Misi.csproj.GenerateResource.cache
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\Misi.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\Misi.exe
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\Misi.pdb
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\obj\Debug\Misi.csproj.CopyComplete
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\bin\Debug\Common.Logging.Core.dll
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\bin\Debug\Common.Logging.dll
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\bin\Debug\SpreadsheetLight.dll
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\bin\Debug\Common.Logging.pdb
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\bin\Debug\Common.Logging.xml
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\bin\Debug\Common.Logging.Core.pdb
+C:\Users\angel\Desktop\Escuela\misi\Misi 3.0\WindowsFormsApplication1\bin\Debug\Common.Logging.Core.xml
